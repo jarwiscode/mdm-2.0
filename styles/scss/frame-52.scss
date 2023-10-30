@@ -1,0 +1,43 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 17.6rem;
+}.frame-52-xVn {
+  box-sizing: border-box;
+  padding: 2rem 2.1rem 2.3rem 2rem;
+  width: 100%;
+  height: 8.2rem;
+  overflow: hidden;
+  position: relative;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+
+  .property-1default-gwa {
+    font-family: Montserrat, 'Source Sans Pro';
+    border-radius: 1.2rem;
+    height: 100%;
+    text-transform: uppercase;
+    color: #ffffff;
+    white-space: nowrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-weight: 600;
+    display: flex;
+    font-size: 1.2rem;
+    line-height: 1.2175;
+    background-color: #d19067;
+  }
+}

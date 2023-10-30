@@ -1,0 +1,1250 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 16rem;
+}.frame-35-Hhi {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.frame-35-Hhi .property-1default-2vC {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.103rem 0.087rem 0.104rem 0.087rem;
+  width: 100%;
+  height: 12rem;
+  cursor: pointer;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  flex-shrink: 0;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk {
+  width: 11.4741rem;
+  height: 100%;
+  position: relative;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .linked-ellipse-4-eRn {
+  width: 9.2rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 1.3126rem;
+  top: 1.2972rem;
+  background-color: #ffffff;
+  border-radius: 4.6rem;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--AQ8 {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.7741rem;
+  top: 5.7701rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--Png {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.5972rem;
+  top: 6.6484rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--EoJ {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.2975rem;
+  top: 7.4841rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--hRz {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.9858rem;
+  top: 8.133rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--ZDJ {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.4922rem;
+  top: 8.8058rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--DHr {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.9736rem;
+  top: 9.406rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--H2p {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.3099rem;
+  top: 9.9124rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--jfW {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 7.6745rem;
+  top: 10.3103rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--BnQ {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 7.1012rem;
+  top: 10.5479rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--eR6 {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 5.1076rem;
+  top: 10.7818rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--ubv {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 4.1694rem;
+  top: 10.6441rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--ZwN {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 3.2823rem;
+  top: 10.3681rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--pcQ {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 2.6401rem;
+  top: 10.0418rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--tcG {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.8902rem;
+  top: 9.5664rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--A3z {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.3159rem;
+  top: 8.9998rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--peL {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.7769rem;
+  top: 8.3449rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--HXv {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.412rem;
+  top: 7.6241rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--Yik {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.1891rem;
+  top: 7.0055rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--1cL {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0;
+  top: 4.9632rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--gTa {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.0946rem;
+  top: 4.1128rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--M3v {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.3447rem;
+  top: 3.2823rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--1uA {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.6887rem;
+  top: 2.6333rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--4cY {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.144rem;
+  top: 1.9538rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--jCt {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.7736rem;
+  top: 1.3575rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--C6U {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 2.3987rem;
+  top: 0.8728rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--qv8 {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 3.2107rem;
+  top: 0.4745rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--WWU {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 3.8778rem;
+  top: 0.2384rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--B6p {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 5.9676rem;
+  top: 0.0154rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--eFJ {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 6.7733rem;
+  top: 0.1613rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--6sz {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 7.5481rem;
+  top: 0.4452rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--mUL {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.17rem;
+  top: 0.7638rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--DbE {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.7774rem;
+  top: 1.2474rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--svg {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.3892rem;
+  top: 1.8266rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--8rc {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.8555rem;
+  top: 2.4919rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--bkC {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.2662rem;
+  top: 3.1973rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .copy--fVA {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.5129rem;
+  top: 3.8218rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1default-2vC .linked-path-group-YNk .arrow-3-vfz {
+  width: 3.2rem;
+  height: 0;
+  position: absolute;
+  left: 4.3126rem;
+  top: 5.8972rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-35-Hhi .property-1variant2-SeL {
+  box-sizing: border-box;
+  padding: 0.103rem 0.088rem 0.113rem 0.088rem;
+  width: 100%;
+  height: 12rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-ZnY.png');
+  flex-shrink: 0;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U {
+  width: 11.4641rem;
+  height: 100%;
+  position: relative;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .linked-ellipse-4-g2t {
+  width: 9.2rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 1.3125rem;
+  top: 1.2972rem;
+  background-color: #ffffff;
+  border-radius: 4.6rem;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--Phz {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 5.1521rem;
+  top: 10.7841rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--43S {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 4.2017rem;
+  top: 10.651rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--JiU {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 3.3097rem;
+  top: 10.3785rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--NTS {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 2.6621rem;
+  top: 10.0535rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--3Jg {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.9155rem;
+  top: 9.5852rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--JkQ {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.3307rem;
+  top: 9.0147rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--aC8 {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.7874rem;
+  top: 8.3599rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--dRJ {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.4198rem;
+  top: 7.6402rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--GDN {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.1945rem;
+  top: 7.0226rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--KhS {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0;
+  top: 4.9833rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--BzY {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.0954rem;
+  top: 4.1151rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--edE {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.3447rem;
+  top: 3.284rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--WvL {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.6848rem;
+  top: 2.6403rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--BWg {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.1353rem;
+  top: 1.9643rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--FFe {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 1.754rem;
+  top: 1.3739rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--WhN {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 2.4002rem;
+  top: 0.8713rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--mdJ {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 3.2057rem;
+  top: 0.4759rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--F2g {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 3.8688rem;
+  top: 0.2404rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--usv {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 5.9536rem;
+  top: 0.0136rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--ZxU {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 6.7343rem;
+  top: 0.1501rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--2r4 {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 7.5091rem;
+  top: 0.4266rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--tNU {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.1597rem;
+  top: 0.7563rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--MG4 {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.7657rem;
+  top: 1.2364rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--gxY {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.3781rem;
+  top: 1.8128rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--wtU {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.8271rem;
+  top: 2.447rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--QGG {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.2562rem;
+  top: 3.1739rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--GZN {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.5051rem;
+  top: 3.7962rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--Y16 {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.7641rem;
+  top: 5.8469rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--PXW {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.5758rem;
+  top: 6.7236rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--Fpc {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 10.2662rem;
+  top: 7.5534rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--XXE {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.9628rem;
+  top: 8.1722rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--nTA {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 9.4547rem;
+  top: 8.8527rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--SXi {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.9291rem;
+  top: 9.4482rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--784 {
+  width: 0.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8.2558rem;
+  top: 9.9496rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--xuN {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 7.635rem;
+  top: 10.3296rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .copy--dEp {
+  width: 0.6rem;
+  height: 1rem;
+  position: absolute;
+  left: 7.0555rem;
+  top: 10.5631rem;
+  display: flex;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.056rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-Hhi .property-1variant2-SeL .linked-path-group-y8U .arrow-3-HaG {
+  width: 3.2rem;
+  height: 0;
+  position: absolute;
+  left: 4.3125rem;
+  top: 5.8972rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,68 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 68.6rem;
+}.frame-51-kac {
+  box-sizing: border-box;
+  padding: 13.1rem 7.5rem 18.1rem 7.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.frame-51-kac .property-1default-gUG {
+  margin-bottom: 14.2rem;
+  width: 100%;
+  height: 4.9rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.7999999523;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.frame-51-kac .property-1variant2-XUt {
+  width: 100%;
+  height: 4.9rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.7999999523;
+  color: #d19067;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d19067;
+  box-sizing: border-box;
+  box-shadow: 0 4.8rem 6.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}

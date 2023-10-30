@@ -1,0 +1,45 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 5.1rem;
+}.facebook-Z3W {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+
+  .property-1default-JWt {
+    height: 2rem;
+    cursor: pointer;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin-bottom: 2rem;
+    width: 1.1rem;
+  }
+  .property-1variant2-3UU {
+    flex-shrink: 0;
+    width: 1.1rem;
+    height: 2rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+}

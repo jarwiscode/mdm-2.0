@@ -1,0 +1,84 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 12.3rem;
+}.frame-13-3Qk {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.frame-13-3Qk .property-1default-avU {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding-bottom: 0.15rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-13-3Qk .property-1default-avU .item--Wp8 {
+  margin-bottom: 0.05rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #d19067;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-13-3Qk .property-1default-avU .line-1-1Vz {
+  width: 3.1rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-13-3Qk .property-1variant2-kiU {
+  box-sizing: border-box;
+  padding-bottom: 0.15rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-13-3Qk .property-1variant2-kiU .item--WBr {
+  margin-bottom: 0.05rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #d19067;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-13-3Qk .property-1variant2-kiU .line-1-QY8 {
+  width: 3.1rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

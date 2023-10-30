@@ -1,0 +1,68 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 12.2rem;
+}.frame-79-kW4 {
+  box-sizing: border-box;
+  padding: 2rem 1.5rem 1.6rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.frame-79-kW4 .property-1default-gPi {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 3.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 1rem rgba(209, 144, 103, 0.5);
+  background-color: #d19067;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.frame-79-kW4 .property-1variant2-7V2 {
+  width: 100%;
+  height: 3.2rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 0 rgba(209, 144, 103, 0.25);
+  background-color: #d19067;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
